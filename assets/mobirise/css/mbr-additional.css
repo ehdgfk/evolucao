@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
@@ -24,7 +24,7 @@
 #dropdown-menu-1 .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-1 .navbar,
 #dropdown-menu-1 .dropdown-menu {
@@ -39,8 +39,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-1 A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-1 .btn {
   font-family: 'Oxygen', sans-serif;
@@ -97,7 +97,7 @@
 #dropdown-menu-8 .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-8 .navbar,
 #dropdown-menu-8 .dropdown-menu {
@@ -112,8 +112,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-8 A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-8 .btn {
   font-family: 'Oxygen', sans-serif;
@@ -167,7 +167,7 @@
 #dropdown-menu-d .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-d .navbar,
 #dropdown-menu-d .dropdown-menu {
@@ -182,8 +182,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-d A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-d .btn {
   font-family: 'Oxygen', sans-serif;
@@ -231,7 +231,7 @@
 #dropdown-menu-i .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-i .navbar,
 #dropdown-menu-i .dropdown-menu {
@@ -246,8 +246,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-i A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-i .btn {
   font-family: 'Oxygen', sans-serif;
@@ -304,7 +304,7 @@
 #dropdown-menu-n .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-n .navbar,
 #dropdown-menu-n .dropdown-menu {
@@ -319,8 +319,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-n A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-n .btn {
   font-family: 'Oxygen', sans-serif;
@@ -393,7 +393,7 @@
 #dropdown-menu-s .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-s .navbar,
 #dropdown-menu-s .dropdown-menu {
@@ -408,8 +408,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-s A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-s .btn {
   font-family: 'Oxygen', sans-serif;
@@ -456,7 +456,7 @@
 #dropdown-menu-x .dropdown-item {
   font-size: 1em;
   color: #a0c2df;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #dropdown-menu-x .navbar,
 #dropdown-menu-x .dropdown-menu {
@@ -471,8 +471,8 @@
   color: #a0c2df;
 }
 #dropdown-menu-x A {
-  font-size: 8px;
-  font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
 }
 #dropdown-menu-x .btn {
   font-family: 'Oxygen', sans-serif;
